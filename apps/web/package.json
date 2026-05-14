@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "framer-motion": "^10.16.5",
+    "lucide-react": "^0.292.0",
+    "axios": "^1.6.2",
+    "zustand": "^4.4.6",
+    "react-hot-toast": "^2.4.1",
+    "three": "^0.158.0",
+    "@types/three": "^0.158.3",
+    "@react-three/fiber": "^8.15.11",
+    "@react-three/drei": "^9.88.16"
+  }
+}
